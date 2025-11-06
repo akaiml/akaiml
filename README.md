@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anju </h1>
+<h1 align="center">Anju Kaimal </h1>
 
 
 <p align="center">
@@ -12,10 +12,6 @@ Researcher in Medical Imaging • Deep Learning • Bayesian Methods
 <a href="mailto:anju.m.kaimal5@gmail.com">Email</a> •
 <a href="#-featured-projects">Projects</a>
 </p>
-
-
----
-
 
 ### About me
 - Focus: **head & neck radiotherapy**, **auto-segmentation**, **dose surface maps**, and **Bayesian analysis** for outcome prediction.
@@ -32,10 +28,6 @@ Researcher in Medical Imaging • Deep Learning • Bayesian Methods
 ### ⚡ Tech stack
 `Python` • `PyTorch` • `Keras`• `Tensorflow`• `MONAI` • `nnU-Net` • `JAX (basics)` • `NumPy` • `Pandas` • `scikit-learn` • `matplotlib` • `GitHub Actions`• `open-cv` • `stan` 
 
-
----
-
-
 ##  Featured Projects {#-featured-projects}
 
 
@@ -46,16 +38,5 @@ Researcher in Medical Imaging • Deep Learning • Bayesian Methods
 | **dsm-dysphagia-bayes** | DSM features → Bayesian logistic regression → calibration curves & SHAP | [Repo](#) • [Docs](#) • [Colab](#) |
 
 
-
-
-
----
-
-
-### How I work
-- Reproducibility by default: **env files**, **CI**, **model cards**, and **tiny synthetic datasets** for quick tests.
-- Ethical use & clinical caveats noted in each repo.
-
-
 ### Get in touch
-Based in London, UK. Authorized to work in the UK without sponsorship; also eligible for spouse visa if preferred. Open to Research Scientist / ML Engineer roles (medical imaging). DM or email me.
+Based in London, UK. Authorized to work in the UK without sponsorship; also eligible for spouse visa if preferred. Open to Research Scientist / ML Engineer roles (imaging)/ AI Engineer/ Data Scientist. DM or email me.
